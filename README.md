@@ -12,4 +12,12 @@ Written in Python3.
 5. There is no way to represent negative numbers in Roman numerals.
 6. There is no way to represent fractions or non-integer numbers in Roman numerals.
 
+### How to Run
+Python3 should be installed in your system. You can run this by simply executing the python file.
+./roman.py
+
+### Unit tests
+Unit tests covered all above assumptions. Tests can be called by executing test file.
+./roman_unit_test.py
+
 
